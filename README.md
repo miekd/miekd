@@ -1,6 +1,6 @@
 # Hi, I'm Maykel 👋
 
-## I am a digital product builder who focuses on the intersection of design, engineering and business strategy.
+**I am a digital product builder who focuses on the intersection of design, engineering and business strategy.**
 
 Previously, I led the digital product and design team at Glossier, worked on a myriad of efforts and product teams at Facebook, and was one of the first designers on the Instagram team.
 
