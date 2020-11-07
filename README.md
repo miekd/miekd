@@ -1,4 +1,10 @@
-### Hi there 👋
+# Hi, I'm Maykel 👋
+
+I am a digital product builder who focuses on the intersection of design, engineering and business strategy.
+
+Previously, I led the digital product and design team at Glossier, worked on a myriad of efforts and product teams at Facebook, and was one of the first designers on the Instagram team.
+
+When not building things, I like to spend time helping others with their careers and their teams, and advising their businesses.
 
 <!--
 **miekd/miekd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
