@@ -7,21 +7,29 @@ Previously, I led the digital product and design team at Glossier, worked on a m
 When not building things, I like to spend time helping others with their careers and their teams, and advising their businesses.
 
 [Personal Website &rarr;](https://maykelloomans.com/) <br />
-[@miekd](https://twitter.com/miekd/) on Twitter &rarr; <br />
-[@miekd](https://twitter.com/miekd/) on Instagram &rarr;
+[@miekd](https://threads.com/@miekd/) on Threads &rarr; <br />
+[@miekd.com](https://bluesky.com/profile/miekd.com/) on BlueSky &rarr;
 
 ### Current Projects 🤓
 
-[Shoebox &rarr;](https://shoebox.maykel.io/)
-
+[Shoebox &rarr;](https://shoebox.photo/)
 
 ### Work History 🧾
 
 Here is a brief history of what I have been up to professionally in the last decade and a half.
 
-#### Now: On Hiatus
 
-Taking a break to do some consulting, advising, investing, and playing with some new ideas. If you’d like to chat, please reach out!
+#### 2021 – Now: Brex
+In 2021, I joined Brex as a Principal Designer and Design Director. The theme of my role here is “Special Projects” (big opportunities that we believe will have a meaningfully positive effect on our customers).
+
+So far, I have led the genesis and growth of our Mobile product and team, and have focused on our career frameworks, hiring practices, and growing our design team to a healthy ratio within the business.
+
+Now I lead two of our organizations that focus on Empower. You can read some more thoughts in Joining Brex.
+
+#### 2020: Hiatus & Exploration
+In October of 2019 I took a break from being in a full-time role to take some rest, watch some movies, play some video games, and read some books. I did spend a little bit of time on advising, investing, and exploring new projects.
+
+Towards the end of 2020 I wanted to go back to where I started my career, which was as a hybrid designer slash front-end developer. So I dug deeper into modern web technologies, brushing up on over half a decade of new ways of working, and explored photo sharing and photo hosting by building out different iterations of Shoebox.
 
 #### 2018 – 2019: Glossier
 
